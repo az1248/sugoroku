@@ -7,7 +7,7 @@ package sugoroku;
 public class FuMasu extends masu {
 
 	public FuMasu() {
-		
+		//llllll
 	}
 
 	@Override
